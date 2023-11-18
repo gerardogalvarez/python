@@ -8,3 +8,5 @@ print(d)
 d += datetime.timedelta(seconds=12)
 
 print(d)
+
+print(d)
